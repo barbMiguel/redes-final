@@ -1,0 +1,7 @@
+Caballos;Numero;RutaIcono;RutaCaballo;PartidasGanadas;TotalApuestas
+Petunia;1;./images/0icons/purple.png;./images/HORSES/purple.gif;0;0
+Tiro al blanco;2;./images/0icons/blue.png;./images/HORSES/blue.gif;0;0
+Rapidin;3;./images/0icons/brown.png;./images/HORSES/brown.gif;0;0
+Macuin;4;./images/0icons/red.png;./images/HORSES/red.gif;0;0
+Betsy;5;./images/0icons/green.png;./images/HORSES/green.gif;0;0
+Rasho Laser;6;./images/0icons/orange.png;./images/HORSES/orange.gif;0;0
